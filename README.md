@@ -18,14 +18,13 @@ I'm Younis, a software engineer who is constantly designing and protyping intell
 ## 🔧 Languages & Tools
 Here are some of the languages and tools I work with:
 
-- Python
-- Javascript
+- Python,C++,Java
 - OpenCV
 - Git
 - Linux
 - SQL/MongoDB
 - Tensorflow/Pytorch/Keras
-- HTML/CSS
+- HTML/CSS/Flask/React
 - AWS/AZURE
 - Docker
 
