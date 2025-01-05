@@ -11,7 +11,7 @@ I'm Younis, a software engineer who is constantly designing and protyping intell
 - **Generative AI**
 - **Data Structures/algorithim design**
 - **Web Development**
-- **MLOPS & Cloud Systems**
+- **MLOps & Cloud Systems**
 - **Autonomous Robotic Systems**
 ---
 
