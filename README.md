@@ -1,4 +1,4 @@
-# 👋 Hello, welcome to my Git repo!
+# 👋 Hey there, welcome to my Git repo!
 
 I'm Younis, a software engineer who is constantly designing and protyping intelligent AI/ML systems. Here you'll find the code for a variety of AI projects and solutions I have been working on. Please feel free to pull the code, customise it, and share any suggestions or improvements you might have!
 
