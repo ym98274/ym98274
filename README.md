@@ -18,7 +18,7 @@ I'm Younis, a software engineer who is constantly designing and protyping intell
 ## 🔧 Languages & Tools
 Here are some of the languages and tools I work with:
 
-- Python,C++,Java
+- Python, C++, Java
 - OpenCV
 - Git
 - Linux
