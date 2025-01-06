@@ -25,7 +25,7 @@ Here are some of the languages and tools I work with:
 - SQL/MongoDB
 - Tensorflow/Pytorch/Keras
 - HTML/CSS/Flask/React
-- AWS/AZURE
+- AWS/Azure
 - Docker
 
 ---
